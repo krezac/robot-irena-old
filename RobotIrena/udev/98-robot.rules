@@ -1,0 +1,2 @@
+KERNEL=="ttyUSB*", ATTRS{interface}=="USB <-> RS-485 Optical Interface",SYMLINK+="robot"
+~ 

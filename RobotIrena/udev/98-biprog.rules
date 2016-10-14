@@ -1,0 +1,2 @@
+KERNEL=="ttyUSB*", ATTRS{interface}=="USB Biprog*",SYMLINK+="biprog"
+~ 

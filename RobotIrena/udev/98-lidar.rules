@@ -1,0 +1,3 @@
+KERNEL=="ttyUSB*", ATTRS{interface}=="FT232R Lidar",SYMLINK+="lidar"
+#KERNEL=="ttyUSB*", ATTRS{interface}=="ROBBUS",SYMLINK+="robbus"
+~ 

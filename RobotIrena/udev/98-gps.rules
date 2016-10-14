@@ -1,0 +1,2 @@
+KERNEL=="ttyUSB*", ATTRS{product}=="USB-Serial Controller" ATTRS{manufacturer}=="Prolific Technology Inc." ,SYMLINK+="robogps"
+~ 

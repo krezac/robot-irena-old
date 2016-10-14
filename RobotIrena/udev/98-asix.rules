@@ -1,0 +1,2 @@
+KERNEL=="ttyUSB*", ATTRS{interface}=="USB-RS232 ASIX cable",SYMLINK+="ttyASIX"
+~ 
